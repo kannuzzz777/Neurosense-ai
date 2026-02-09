@@ -1,0 +1,4 @@
+scikit-learn
+nltk
+joblib
+pandas # Although not directly used in predict.py, it's often a dependency for data science projects and might be needed if your models internally rely on pandas structures.
